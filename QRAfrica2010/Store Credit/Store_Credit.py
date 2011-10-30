@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
+***SOLVED***
 10.29.2011
+
 Google CodeJam Challenges
 Event: Qualification Round Africa - 2010
 
