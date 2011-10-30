@@ -8,7 +8,7 @@
 Google CodeJam Challenges
 Event: Qualification Round Africa - 2010
 
-Problem A: Store Credit
+Problem B: Reverse Words
 
 Given a list of space separated words, reverse the order of the words.
 Each line of text contains L letters and W words.
